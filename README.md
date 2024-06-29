@@ -7,7 +7,7 @@ QuicBuild Falls Under The MCSPSL. Read <a href="https://github.com/MabelMedia-LL
 # Installation
 Just Run This Line On Your Live Install Medium:
 ```sh
-curl https://github.com/MabelMedia-LLC/QuicArch/raw/main/Install.sh | sh
+curl -L https://github.com/MabelMedia-LLC/QuicArch/raw/main/Install.sh | sh
 ```
 
 # Oh No, Piping To Shell Bad!
