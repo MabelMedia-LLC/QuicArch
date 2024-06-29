@@ -9,3 +9,8 @@ Just Run This Line On Your Live Install Medium:
 ```sh
 curl https://github.com/MabelMedia-LLC/QuicArch/raw/main/Install.sh | sh
 ```
+
+# Oh No, Piping To Shell Bad!
+Don't Worry, You Can See The Installer Script Just Pulls And Runs The Binary From
+
+The Latest Release Tag, Like You Would Do Manually.
