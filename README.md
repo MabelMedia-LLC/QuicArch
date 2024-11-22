@@ -1,6 +1,5 @@
 # QuicArch
-QuicArch - A Super Quick Way Of Installing Arch Linux To Your PC.
-
+QuicArch - A Super Simple Arch Linux Installer.
 # Licensing
 QuicBuild Falls Under The MCSPSL. Read <a href="https://github.com/MabelMedia-LLC/MCSPSL">The License</a> To Learn More.
 
